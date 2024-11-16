@@ -3,7 +3,7 @@
 Here is the paper we publish "SD-YOLO: A lightweight steel surface defect detection model with dynamic parameterisation for adaptive feature modulation".
 
 ## 🚀 Training
-More configuration please see paper and where you can set dataset path, batch size, weight path, and so on.
+DPEM is in nn\extra modules\block.py
 
 ## :trophy: Result
 Our proposed method achieves better performance on NEU-DET and GC10-DET.
