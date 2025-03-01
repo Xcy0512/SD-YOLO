@@ -12,6 +12,7 @@ Our proposed method achieves better performance on NEU-DET and GC10-DET.
 
 ## Cite
 Welcome to quote our articles.
+
 Li X, Xu C, Li J, et al. SD-YOLO: A lightweight steel surface defect detection model with dynamic parameterisation for adaptive feature modulation[J]. Ironmaking & Steelmaking, 2024: 03019233241293880.
 
 @article{li2024sd,
